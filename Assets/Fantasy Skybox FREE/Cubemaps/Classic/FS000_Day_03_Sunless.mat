@@ -58,11 +58,15 @@ Material:
     m_Ints: []
     m_Floats:
     - _Exposure: 1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     - _Rotation: 81.69825
 =======
     - _Rotation: 11.9973955
 >>>>>>> Stashed changes
+=======
+    - _Rotation: 35.35374
+>>>>>>> parent of 727d4e8 (asset enviroment)
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
